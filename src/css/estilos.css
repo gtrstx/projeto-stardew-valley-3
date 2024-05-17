@@ -1,0 +1,139 @@
+body{
+    background-color: #FBE995;
+    color: #fff;
+    height: 100vh;
+    font-family: sans-serif;
+}
+
+.cabecalho{
+    background-color: rgb(21, 60, 126);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    padding: 0 80px;
+}
+
+
+.cabecalho .menu{
+    display: flex;
+    line-height: 55px;
+    margin: 0 20px;
+    gap: 48px;
+}
+
+.home{
+    display: flex;
+    position: relative;
+    min-height: calc(100vh - 80px)
+}
+
+.home .imagem-de-fundo{
+    width: 100%;
+    object-fit: cover;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #0066CC;
+    line-height: 170%;
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.informacoes-pt1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-weight: 200;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.informacoes-pt2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.informacoes-pt3{
+    display: flex;
+    flex-direction: column;
+}
+
+.informacoes-pt3 .fazenda-dos-sonhos{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.informacoes-pt3 .aprenda-a-viver{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.informacoes-pt3 .faca-parte{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.informacoes-pt3 .conheca-alguem{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.informacoes-pt3 .explore-cavernas{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.informacoes-pt3 .personalizar{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #373735bb;
+    font-size: 20px;
+}
+
+.jogo-sv{
+    display: flex;
+}
+
+.jogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hr{
+    height: 6px;
+    background: url(https://stardewvalley.net/wp-content/uploads/2017/12/hrspike.png) repeat-x 0 0;
+    border: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+b {
+    color: #FF6633 ;
+}

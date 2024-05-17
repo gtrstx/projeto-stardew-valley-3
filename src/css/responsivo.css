@@ -1,0 +1,336 @@
+@media (max-width: 1202px){
+    .informacoes-pt1{
+        font-size: 18px;
+    }
+
+    .informacoes-pt2{
+        font-size: 18px;
+    }
+
+    .titulo{
+        font-size: 23px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 18px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 18px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 18px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 18px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 18px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1083px){
+    .informacoes-pt1{
+        font-size: 16px;
+    }
+    
+    .informacoes-pt2{
+        font-size: 16px;
+    }
+
+    .titulo{
+        font-size: 21px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 16px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 16px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 16px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 16px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 16px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 980px){
+    .cabecalho .menu{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 964px){
+    .informacoes-pt1{
+        font-size: 14px;
+    }
+    
+    .informacoes-pt2{
+        font-size: 14px;
+    }
+
+    .titulo{
+        font-size: 19px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 14px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 14px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 14px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 14px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 14px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 950px){
+    .jogo{
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .jogo-sv{
+        width: 750px;
+    }
+}
+
+@media (max-width: 846px){
+    .informacoes-pt1{
+        font-size: 12px;
+    }
+    
+    .informacoes-pt2{
+        font-size: 12px;
+    }
+
+    .titulo{
+        font-size: 17px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 12px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 12px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 12px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 12px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 12px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 800px){
+    .cabecalho .menu{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 760px){
+    .jogo{
+        align-items: center;
+        justify-content: center;
+    }
+
+    .jogo-sv{
+        width: 550px;
+    }
+}
+
+@media (max-width: 727px){
+    .cabecalho .menu{
+        font-size: 11px;
+    }
+    
+    .informacoes-pt1{
+        font-size: 10px;
+    }
+    
+    .informacoes-pt2{
+        font-size: 10px;
+    }
+
+    .titulo{
+        font-size: 15px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 650px){
+    .cabecalho .menu{
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 608px){
+    .cabecalho .menu{
+        font-size: 15px;
+        gap: 12px;
+    }
+
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 8px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 8px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 8px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 8px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 8px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 560px){
+    .cabecalho .menu{
+        font-size: 13px;
+        gap: 10px;
+    }
+
+    .jogo{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .jogo-sv{
+        width: 350px;
+    }
+}
+
+@media(max-width: 489px){
+    .informacoes-pt3 .fazenda-dos-sonhos{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .aprenda-a-viver{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .faca-parte{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .conheca-alguem{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .explore-cavernas{
+        font-size: 10px;
+    }
+
+    .informacoes-pt3 .personalizar{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 455px){
+    .cabecalho .menu{
+        font-size: 12px;
+         gap: 8px;
+    }
+}
+
+@media (max-width: 415px){
+    .cabecalho .menu{
+        font-size: 10px;
+         gap: 6px;
+    }
+}
+
+@media (max-width: 280px){
+    .cabecalho .menu{
+        font-size: 8px;
+         gap: 4px;
+    }
+
+    .jogo{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .jogo-sv{
+        width: 250px;
+    }
+}
